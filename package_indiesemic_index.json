@@ -1,0 +1,28 @@
+{
+  "packages": [
+    {
+      "name": "Indiesemic",
+      "maintainer": "Your Name",
+      "websiteURL": "https://indiesemic.com",
+      "email": "rajpandya.indiesemic@gmail.com",
+      "platforms": [
+        {
+          "name": "nrf52832",
+          "architecture": "myarch",
+          "version": "1.7.0",
+          "category": "MyVendor Boards",
+          "url": "https:/rajpandya17.github.io/nrf52832-arduino/nrf52832-1.7.0.tar.gz",
+          "archiveFileName": "nrf52832-1.7.0.tar.gz",
+          "checksum": "SHA-256:f1e4eb269e9087aebc9b1a3b5a3d26371f7bf2e8902920a80bbb4ee3c0d02b07",
+
+          "size": 22217840,
+          "boards": [
+            { "name": "ISC-DEVKIT-nRF52832" }
+          ],
+          "toolsDependencies": []
+        }
+      ],
+      "tools": []
+    }
+  ]
+}
