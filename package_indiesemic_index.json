@@ -7,7 +7,7 @@
       "email": "rajpandya.indiesemic@gmail.com",
       "platforms": [
         {
-          "name": "nrf52832",
+          "name": "ISC-DEVKIT-nRF52832",
           "architecture": "myarch",
           "version": "1.7.0",
           "category": "MyVendor Boards",
