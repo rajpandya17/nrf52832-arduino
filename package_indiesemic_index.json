@@ -11,7 +11,7 @@
           "architecture": "myarch",
           "version": "1.7.0",
           "category": "MyVendor Boards",
-          "url": "https:/rajpandya17.github.io/nrf52832-arduino/nrf52832-1.7.0.tar.gz",
+          "url": "https://rajpandya17.github.io/nrf52832-arduino/nrf52832-1.7.0.tar.gz",
           "archiveFileName": "nrf52832-1.7.0.tar.gz",
           "checksum": "SHA-256:f1e4eb269e9087aebc9b1a3b5a3d26371f7bf2e8902920a80bbb4ee3c0d02b07",
 
